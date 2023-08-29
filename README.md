@@ -15,7 +15,7 @@
 
 <div class="body" align="center">
 <h1>tu no mete cabra saramambiche</h1>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2lcpZ31FWzU0zPmbSN6opvouKLqqAQQ_OVQBp0r52OXx6Ufe20vO7XVCfrVJj-4Mwpzs&usqp=CAU" with="800">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2lcpZ31FWzU0zPmbSN6opvouKLqqAQQ_OVQBp0r52OXx6Ufe20vO7XVCfrVJj-4Mwpzs&usqp=CAU" with="300">
 </div>
 <!--
 **EzDeM/EzDeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
