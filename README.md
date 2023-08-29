@@ -1,6 +1,7 @@
 <div class="header" align="right">
   <img
-    scr="https://giphy.com/gifs/neko-arc-ECBnQ9fVYTSRb3DZg2"with="300">
+    scr="https://giphy.com/gifs/neko-arc-ECBnQ9fVYTSRb3DZg2"
+    width="300">
 <h1>todobien?</h1>
 </div>
 
