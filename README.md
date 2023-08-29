@@ -1,6 +1,6 @@
 <div class="header" align="center">
 <h1>bishmala</h1>
-  <h2>shalom</h2>
+  <h2>shalom</h2 align "right">
 </div>
 
 
