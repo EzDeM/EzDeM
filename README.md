@@ -22,7 +22,7 @@ justify-content = "space-arround">
 
 <div class"mystats" align="center">
   <h1>My Stats</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzDeM&theme=dark)](https://github.com/EzDeM/github-readme-stats)
+<h2>https://github-readme-stats.vercel.app/api?username=EzDeM&theme=dark)](https://github.com/EzDeM/github-readme-stats</h2>
 
 <div class="body" align="center">
 <h1>tu no mete cabra saramambiche</h1>
