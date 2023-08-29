@@ -1,4 +1,4 @@
-<div class="header" align="left">
+<div class="header" align="right">
 <h1>bishmala</h1>
   <h2>shalom</h2>
 </div>
