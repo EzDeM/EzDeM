@@ -21,6 +21,7 @@ justify-content = "space-arround">
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/csgo_93786.png" width="40">
 
 <div class"mystats" align="center">
+  <h1>My Stats</h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzDeM&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="body" align="center">
