@@ -7,5 +7,9 @@
 
 ### Aguanten las medialunas 🥐
 
+
+<div class="body" align="center">
+<h1>Aver si anda esto como un body de pagina</h1>
+
 <!--
 **EzDeM/EzDeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
