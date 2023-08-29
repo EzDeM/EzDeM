@@ -16,8 +16,8 @@ justify-content = "space-around">
 <img src="https://cdn.icon-icons.com/icons2/3797/PNG/512/flower_mario_power_super_bros_icon_232941.png" width="40">
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" width="40">
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" width="40">
-<img src="https://cdn.icon-icons.com/icons2/3797/PNG/512/goomba_super_mario_bros_icon_232943.png" width="40">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="40">
+<img src="https://cdn.icon-icons.com/icons2/3797/PNG/512/goomba_super_mario_bros_icon_232943.png" width="60">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="50">
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/csgo_93786.png" width="40">
 
 <div class"mystats" align="center">
