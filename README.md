@@ -4,6 +4,11 @@
   <h3>Estoy aprendendo a hacer banda de cosas</h3>
   <h3>Aguanten las medialunas 🥐</h3>
 </div>
+
+### About
+- Estoy aprendiendo banda de cosas
+- Viendo como programar
+- Aguante el counter
 <div class="body" align="center">
 <h1>a ver si esto es de tu talla</h1>
 <img src="https://i.pinimg.com/564x/d7/ba/ca/d7baca47d264d114e194811410fbc808.jpg" with="800">
