@@ -28,9 +28,14 @@
 
 
 <div class"mystats" align="center">
-  <h1>My Stats</h1>
-<h2>https://github-readme-stats.vercel.app/api?username=EzDeM&theme=dark)](https://github.com/EzDeM/github-readme-stats</h2>
+<h1>My Stats </h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezdem&show_icons=true&locale=en&layout=compact" alt="ezdem" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezdem&show_icons=true&locale=en" alt="ezdem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezdem&" alt="ezdem" /></p>
+
+  
 <div class="body" align="center">
 <h1>tu no mete cabra saramambiche</h1>
 <img src="https://img.wattpad.com/dfa16698c259c77d5d2b9dd13c949b3ee6ed9540/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6f387248346173336450636351773d3d2d3932343434363238382e313632343530643833316137326130303930323334343030323830352e6a7067" with="300">
